@@ -1,2 +1,2 @@
 # nexus
-$NEXUSS ai on eth
+$NEXUS ai on eth
